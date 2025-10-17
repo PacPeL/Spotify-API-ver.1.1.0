@@ -1,0 +1,4 @@
+dotnet run --urls "http://localhost:7000"
+
+dotnet-ef database update
+dotnet watch run
